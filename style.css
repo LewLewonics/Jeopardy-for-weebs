@@ -10,7 +10,7 @@
 body {
     color: #fff;
     background-color: #242333;
-    background-image: url('https://w.wallhaven.cc/full/vm/wallhaven-vmyw53.png');
+    background-image: url('background.png');
     background-size: cover;
     display: flex;
     flex-direction: column;
