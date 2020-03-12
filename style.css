@@ -4,6 +4,7 @@
 * {
     box-sizing: border-box;
     font-family: 'Merriweather', serif;
+    margin: 0;
 }
 
 body {
@@ -185,4 +186,11 @@ body {
 
 #gameover #player_name {
     color: #ECE966;
+}
+
+#player {
+    position: fixed;
+    bottom: 0;
+    background-color: rgba(14, 27, 137, 1);
+    width: 100%;
 }
