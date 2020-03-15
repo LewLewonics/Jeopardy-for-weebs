@@ -25,6 +25,7 @@ questions.push(
     ["characters", //First is always the category
     "$400", //Second is always the value
     "This character has psychic powers and a poker face 24/7", //Question 
+    "mob",
     "saiki",
     "saiki k"] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
 );
