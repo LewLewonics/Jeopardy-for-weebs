@@ -11,14 +11,19 @@ questions.push(
     ["characters", //First is always the category
     "$200", //Second is always the value
     "Which popular protagonist is known for being stretchy and wearing a strawhat", //Question 
-    "luffy"] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
+    "luffy",
+    "monkey d luffy",
+    "monkey d. luffy"] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
 );
 
 questions.push(
     ["characters", //First is always the category
     "$300", //Second is always the value
-    "Complete the phrase from Re:Zero Who's _______", //Question 
-    "rem"] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
+    "Who's wears the number the '#10' jersey on Karasuno in Haikyuu!", //Question 
+    "hinata",
+    "shoyo",
+    "hinata shoyo",
+    "shoyo hinata"] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
 );
 
 questions.push(
