@@ -59,3 +59,30 @@ questions.push(
     "jojo no kimyou na bouken",
     ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
 );
+
+questions.push(
+    ["characters", //First is always the category
+    "$300", //Second is always the value
+    "What is the name of the nine-tailed fox from Naruto", //Question 
+    "kurama"
+    ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
+);
+
+questions.push(
+    ["general", //First is always the category
+    "$200", //Second is always the value
+    "What do you call an anime about a character getting sent to another world?", //Question 
+    "isekai",
+    "an insekai"
+    ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
+);
+
+questions.push(
+    ["moves", //First is always the category
+    "$400", //Second is always the value
+    "What was studio Ghilbi's first official film?",
+    "totoro",
+    "my neighbor totoro"
+    ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
+);
+
