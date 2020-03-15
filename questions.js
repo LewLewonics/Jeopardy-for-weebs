@@ -70,7 +70,7 @@ questions.push(
 
 questions.push(
     ["general", //First is always the category
-    "$200", //Second is always the value
+    "$100", //Second is always the value
     "What do you call an anime about a character getting sent to another world?", //Question 
     "isekai",
     "an insekai"
@@ -145,6 +145,46 @@ questions.push(
     "What popular anime studio is known for producing big hits like 'Death Note' and 'No game no life' and 'one punch man'?",
     "mad house",
      "studio mad house"
+    ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
+);
+
+questions.push(
+    ["general", //First is always the category
+    "$200", //Second is always the value
+    "What city in japan is the known for it's 'otaku' culture",
+    "akiba",
+     "akihabara"
+    ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
+);
+
+questions.push(
+    ["general", //First is always the category
+    "$300", //Second is always the value
+    "How many times does a japanese person clap during an offering at a shrine?",
+    "2",
+     "two"
+    ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
+);
+
+questions.push(
+    ["general", //First is always the category
+    "$400", //Second is always the value
+    "What's the biggest anime convention in the United States?",
+    "anime expo",
+     "ax"
+    ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
+);
+
+questions.push(
+    ["general", //First is always the category
+    "$500", //Second is always the value
+    "What is an 'okama'",
+    "lulu",
+     "crossdresser",
+     "homosexual",
+     "gay",
+     "trap",
+     "kai"
     ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
 );
 
