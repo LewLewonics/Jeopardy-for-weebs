@@ -144,7 +144,8 @@ questions.push(
     ["anime", //First is always the category
     "$400", //Second is always the value
     "What popular anime studio is known for producing big hits like 'Death Note' and 'No game no life' and 'one punch man'?",
-    "mad house",
+    "madhouse",
+     "mad house",
      "studio mad house"
     ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
 );
