@@ -78,11 +78,55 @@ questions.push(
 );
 
 questions.push(
-    ["moves", //First is always the category
+    ["movies", //First is always the category
     "$400", //Second is always the value
     "What was studio Ghilbi's first official film?",
     "totoro",
     "my neighbor totoro"
+    ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
+);
+
+questions.push(
+    ["movies", //First is always the category
+    "$100", //Second is always the value
+    "What popular band shows up in both 'Your Name' and 'Weathering with you'?",
+    "radwimps"    
+    ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
+);
+
+questions.push(
+    ["movies", //First is always the category
+    "$300", //Second is always the value
+    "Fill in the blank: 'The disappearance of _____________________",
+    "haruhi",
+     "haruhi suzumiya"
+    ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
+);
+
+questions.push(
+    ["movies", //First is always the category
+    "$500", //Second is always the value
+    "That’s a good start! Once you’ve met someone you never really forget them. It just takes a while for your memories to return.",
+    "spirited away",
+     "Sen to Chihiro no Kamikakushi"
+    ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
+);
+
+questions.push(
+    ["movies", //First is always the category
+    "$200", //Second is always the value
+    "What is the highest grossing anime film of all time?",
+    "your name",
+     "kimi no na wa"
+    ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
+);
+
+questions.push(
+    ["general", //First is always the category
+    "$300", //Second is always the value
+    "What city in Japan is known as the 'otaku capital' of japan",
+    "akiba",
+     "akihabara"
     ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
 );
 
