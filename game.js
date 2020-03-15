@@ -1,6 +1,6 @@
 let player_name = 'Lulu';
 let earnings = 0;
-let mistakes_left = 3;
+let mistakes_left = 5;
 
 let current_question_index = 0;
 let current_question_value = 0;
