@@ -164,7 +164,8 @@ questions.push(
     "$300", //Second is always the value
     "How many times does a japanese person clap during an offering at a shrine?",
     "2",
-     "two"
+     "two", 
+     "twice"
     ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
 );
 
