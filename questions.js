@@ -122,11 +122,29 @@ questions.push(
 );
 
 questions.push(
-    ["general", //First is always the category
+    ["anime", //First is always the category
+    "$500", //Second is always the value
+    "What lulu's favorite anime huh? punk",
+    "clannad",
+     "clannad afterstory"
+    ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
+);
+
+questions.push(
+    ["anime", //First is always the category
     "$300", //Second is always the value
-    "What city in Japan is known as the 'otaku capital' of japan",
-    "akiba",
-     "akihabara"
+    "What is the most meme'd about hentai?",
+    "bnp",
+     "boku no pico"
+    ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
+);
+
+questions.push(
+    ["anime", //First is always the category
+    "$400", //Second is always the value
+    "What popular anime studio is known for producing big hits like 'Death Note' and 'No game no life' and 'one punch man'?",
+    "mad house",
+     "studio mad house"
     ] //1 or more potential answer, can have more NOTE: KEEP LOWERCASE
 );
 
